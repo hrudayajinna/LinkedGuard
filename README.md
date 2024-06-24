@@ -16,13 +16,13 @@ LinkedGuard addresses the following key problems:
 - **Company Legitimacy Assessment:** Utilizes machine learning (TensorFlow, PyTorch) to classify companies as legitimate or risky based on historical data and job listing analysis.
 - **Resume Scraper:** Automates the extraction and modification of resume content (address, phone, email, education, projects, experiences) based on the assessed risk level of the company.
 - **Privacy Enhancement:** Ensures that users can apply to jobs confidently without compromising their personal information to potentially fraudulent entities.
-![Original Resume](images/original_resume.jpg)
+![Original Resume](Images/original Image.png)
 *Original Resume*
 
-![Risk Level 1](images/risk1.jpg)
+![Risk Level 1](Images/Risk-1.png)
 *Resume with Risk Level 1*
 
-![Risk Level 5](images/risk5.jpg)
+![Risk Level 5](Images/Risk-5.png)
 *Resume with Risk Level 5*
 ## How to use
 1. Fork the repository.
